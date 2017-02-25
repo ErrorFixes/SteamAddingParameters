@@ -1,0 +1,6 @@
+1- Open Steam Games Library in Steam Client
+2- Right click to your game and select "Properties" option
+3- In general tab there is a section which named with "Set Launch Options"
+4- Write your parameter... for example "-eac_launcher" for Ubisoft EasyAntiChat errors.
+5- Close it and create a new shortcut from library
+6- Play your game with new shortcut
